@@ -4,7 +4,7 @@ date: 2019-02-07
 tags: ['Hati', 'Pikiran']
 cover_image: ./images/lion.jpg
 canonical_url: false
-description: Bila pikiran Anda senang, maka Anda pun akan senang kemana pun Anda pergi. Ketika kebijaksanaan muncul dalam diri Anda, Anda akan menemukan kebenaran kemana pun Anda melihat. Kebenaran itu ada dimana-mana. Sama halnya bila Anda telah belajar membaca, Anda dapat membaca dimana saja.
+description: Bila pikiran Anda senang, maka Anda pun akan senang kemana pun Anda pergi. Ketika kebijaksanaan muncul dalam diri Anda, Anda akan menemukan kebenaran kemana pun Anda melihat. Kebenaran itu ada di mana-mana. Sama halnya bila Anda telah belajar membaca, Anda dapat membaca di mana saja.
 
 ---
 
@@ -13,7 +13,7 @@ description: Bila pikiran Anda senang, maka Anda pun akan senang kemana pun Anda
 
 Hanya ada satu buku yang patut dibaca: **_hati_**
 
-Bila pikiran Anda senang, maka Anda pun akan senang kemana pun Anda pergi. Ketika kebijaksanaan muncul dalam diri Anda, Anda akan menemukan kebenaran kemana pun Anda melihat. Kebenaran itu ada dimana-mana. Sama halnya bila Anda telah belajar membaca, Anda dapat membaca dimana saja.
+Bila pikiran Anda senang, maka Anda pun akan senang kemana pun Anda pergi. Ketika kebijaksanaan muncul dalam diri Anda, Anda akan menemukan kebenaran kemana pun Anda melihat. Kebenaran itu ada di mana-mana. Sama halnya bila Anda telah belajar membaca, Anda dapat membaca di mana saja.
 
 Menguatkan pikiran tidak dapat dilakukan dengan mengerakkannya seperti menguatkan tubuh, tetapi dengan membuatnya diam, beristirahat.
 

@@ -4,7 +4,7 @@ date: 2019-01-07
 published: true
 tags: ['Sampah', 'Hati']
 series: false
-cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
+cover_image: ./images/money.jpeg
 canonical_url: false
 description: "Suatu hari saya naik taxi Bandara, Taxi melaju pada  jalur yang benar, ketika tiba2 sebuah mobil jeep hitam nyelonong dari tempat parkir tepat di depan kami, Supir taxi menginjak pedal rem dalam2 hingga ban mobil berdecit dan berhenti hanya beberapa cm dari mobil tsb."
 ---

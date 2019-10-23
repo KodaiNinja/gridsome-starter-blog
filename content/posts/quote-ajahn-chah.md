@@ -2,8 +2,9 @@
 title: Quote Ajahn Chah 🎉
 date: 2019-02-07
 tags: ['Hati', 'Pikiran']
+cover_image: ./images/lion.jpg
 canonical_url: false
-description: Artikel ini merupakan cuplikan dari ajaran sang Ajahn Chah
+description: Bila pikiran Anda senang, maka Anda pun akan senang kemana pun Anda pergi. Ketika kebijaksanaan muncul dalam diri Anda, Anda akan menemukan kebenaran kemana pun Anda melihat. Kebenaran itu ada dimana-mana. Sama halnya bila Anda telah belajar membaca, Anda dapat membaca dimana saja.
 
 ---
 

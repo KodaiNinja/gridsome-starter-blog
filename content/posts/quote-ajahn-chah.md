@@ -1,7 +1,7 @@
 ---
 title: Quote Ajahn Chah 🎉
 date: 2019-02-07
-tags: ['Markdown', 'Releases']
+tags: ['Hati', 'Pikiran']
 canonical_url: false
 description: Artikel ini merupakan cuplikan dari ajaran sang Ajahn Chah
 

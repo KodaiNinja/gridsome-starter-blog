@@ -4,7 +4,7 @@ date: 2019-01-07
 published: true
 tags: ['Attraction']
 series: false
-cover_image: ./images/money.jpeg
+cover_image: ./images/alexandr-podvalny-220262-unsplash.jpg
 canonical_url: false
 description: "Hukum tarik-menarik adalah bisnis yang lengket. Ketika Anda bersukacita atas nasib baik orang lain, nasib baik mereka melekat pada Anda!"
 ---
